@@ -1,6 +1,6 @@
 # Dystopian World
  An interactive dystopian world.
-I made this for 
+I made this for a school project over around 3 weeks using Unity URP. All of the assets are made by me.
 # It Features:
 - Some nice sound design
 - A detailed level to walk around in
