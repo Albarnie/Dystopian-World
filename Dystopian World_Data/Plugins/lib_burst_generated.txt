@@ -5,8 +5,8 @@
 --float-precision=Standard
 --format=Coff
 --output=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Plugins\lib_burst_generated
---root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.Collections.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Runtime.dll
+--root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.Collections.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
@@ -47,8 +47,8 @@
 --float-precision=Standard
 --format=Coff
 --output=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Plugins\lib_burst_generated
---root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.Collections.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Runtime.dll
+--root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.Collections.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=B:\alber\Documents\Game Development\Unity\Projects\New Unity Project\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
